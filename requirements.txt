@@ -1,0 +1,10 @@
+streamlit
+gradio
+fastapi
+uvicorn
+beautifulsoup4
+requests
+vaderSentiment
+transformers
+keybert
+TTS
